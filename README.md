@@ -6,7 +6,7 @@
 <h3>Junior Optimist International is a world-wide organization that focuses on helping communities around the world, and through Whitney, we focus on serving our community in any way we can!
 </h3>
 <h4> Founders</h4>
-<img src="file:///C:/Users/ekene/Downloads/Pics%20for%20JOI%20website.jpg">
+<img src="file:///C:/Users/3APCSP/Downloads/IMG_20230926_073743_205.jpg" alt="Cabinet Picture">
 <body>
   <div>
     <h1>Who Are We?</h1> 
