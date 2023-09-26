@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <style>
-  body{background:#D5FFFF;}
+  body{background:pink;}
 </style>
 <h1>Whitney Junior Optimist International</h1>
 <h3>Junior Optimist International is a world-wide organization that focuses on helping communities around the world, and through Whitney, we focus on serving our community in any way we can!
