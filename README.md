@@ -14,7 +14,4 @@
 <div>
   <h1> Sign-Ups</h1>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdT8zRrkKkdEWZG6itjukJFplPk548az9RMjtkHERDC-XYiyA/viewform">Trunk-Or-Treat</a>
-</div>
-   
-  </div>
 </body>
