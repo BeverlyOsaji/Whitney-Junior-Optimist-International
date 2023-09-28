@@ -1,7 +1,7 @@
 <body style="background-color:lightblue;">
   <datalist id="text_editors">
     <option value="Trunk-Or-Treat Sign-ups"></option>
-    <option value="Optimist Website ++"></option>
+    <option value="Optimist Website"></option>
 </datalist>
 <h3>Junior Optimist International is a world-wide organization that focuses on helping communities around the world, and through Whitney, we focus on serving our community in any way we can!
 </h3>
