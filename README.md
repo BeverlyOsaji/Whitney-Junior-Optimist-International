@@ -1,7 +1,7 @@
 <body style="background-color:powderblue;">
 <h3>Junior Optimist International is a world-wide organization that focuses on helping communities around the world, and through Whitney, we focus on serving our community in any way we can!
 </h3>
-<img src="https://github.com/BeverlyOsaji/Whitney-Junior-Optimist-International/blob/main/IMG_20230926_073743_205.jpg" alt="Cabinet Picture">
+<img src="file:///C:/Users/ekene/Downloads/IMG_20230926_073743_205.jpg" alt="Cabinet Picture">
 <body>
   <div>
     <h1>Who Are We?</h1> 
