@@ -3,8 +3,6 @@
     <option value="Trunk-Or-Treat Sign-ups"></option>
     <option value="Optimist Website ++"></option>
 </datalist>
-<p><em>
-</em>Trunk-Or-Treat</p>
 <h3>Junior Optimist International is a world-wide organization that focuses on helping communities around the world, and through Whitney, we focus on serving our community in any way we can!
 </h3>
 <img src="IMG_20230926_073743_205.jpg" alt="Cabinet Picture" style="width:100%">
