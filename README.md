@@ -1,8 +1,8 @@
 <body style="background-color:powderblue;">
 <h3>Junior Optimist International is a world-wide organization that focuses on helping communities around the world, and through Whitney, we focus on serving our community in any way we can!
 </h3>
-<img src="IMG_20230926_073743_205.jpg" alt="Cabinet Picture">
-<img src="https://th.bing.com/th/id/OIP.vRNcXUbYj4Ln-w8KNtojuQHaE7?pid=ImgDet&rs=1" alt="Plangting Trees">
+<img src="IMG_20230926_073743_205.jpg" alt="Cabinet Picture" style="width:100%">
+<img src="https://www.aces.edu/wp-content/uploads/2019/03/GettyImages-1096104376.jpg" alt="Plangting Trees">
 <body>
   <div>
     <h1>Who Are We?</h1> 
@@ -11,7 +11,7 @@
  <div>
    <h1>Special Events</h1>
    <p>We work with our local schools around the area to particpate in volunteerings (one of our most famous is Trunk-Or-Treat), as well as we participate in many academic scholarships and contests year round.</p>
-   <img src="https://th.bing.com/th/id/OIP.cGQh6547qXMwttL4rezOAgHaE8?pid=ImgDet&rs=1" alt="Volunteers">
+   <img src="https://www.rd.com/wp-content/uploads/2017/05/shutterstock_634491785.jpg" alt="Volunteers">
 <div>
   <h1> Sign-Ups</h1>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdT8zRrkKkdEWZG6itjukJFplPk548az9RMjtkHERDC-XYiyA/viewform">Trunk-Or-Treat</a></body>
