@@ -10,7 +10,7 @@
  <div>
    <h1>Special Events</h1>
    <p>We work with our local schools around the area to particpate in volunteerings (one of our most famous is Trunk-Or-Treat), as well as we participate in many academic scholarships and contests year round.</p>
+   <img src="" alt="Volunteers">
 <div>
   <h1> Sign-Ups</h1>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdT8zRrkKkdEWZG6itjukJFplPk548az9RMjtkHERDC-XYiyA/viewform">Trunk-Or-Treat</a>
-</body>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdT8zRrkKkdEWZG6itjukJFplPk548az9RMjtkHERDC-XYiyA/viewform">Trunk-Or-Treat</a></body>
