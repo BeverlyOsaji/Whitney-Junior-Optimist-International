@@ -19,3 +19,16 @@
 <div>
   <h1> Sign-Ups</h1>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdT8zRrkKkdEWZG6itjukJFplPk548az9RMjtkHERDC-XYiyA/viewform">Trunk-Or-Treat</a>
+  <br>
+  <table>
+  <tr>
+    <th>Where</th>
+    <th>Why</th>
+    <th>What</th>
+  </tr>
+  <tr>
+    <td>Whitney High School</td>
+    <td>To bring others JOI!</td>
+    <td>We volunteer in many aspects of our community!</td>
+  </tr>
+</table>
