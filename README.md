@@ -1,4 +1,10 @@
 <body style="background-color:lightblue;">
+  <datalist id="text_editors">
+    <option value="Trunk-Or-Treat Sign-ups"></option>
+    <option value="Optimist Website ++"></option>
+</datalist>
+<p><em>
+</em>Trunk-Or-Treat</p>
 <h3>Junior Optimist International is a world-wide organization that focuses on helping communities around the world, and through Whitney, we focus on serving our community in any way we can!
 </h3>
 <img src="IMG_20230926_073743_205.jpg" alt="Cabinet Picture" style="width:100%">
@@ -12,13 +18,6 @@
    <p>We work with our local schools around the area to particpate in volunteerings (one of our most famous is Trunk-Or-Treat), as well as we participate in many academic scholarships and contests year round.</p>
    <img src="https://www.rd.com/wp-content/uploads/2017/05/shutterstock_634491785.jpg" alt="Volunteers" style="width:100%">
    <input type="text" list="text_editors">
-<datalist id="text_editors">
-    <option value="Atom"></option>
-    <option value="Notepad ++"></option>
-    <option value="Sublime Text"></option>
-    <option value="Wordpad"></option>
-</datalist>
-<p><em>Trunk-Or-Treat</em></p>
 <div>
   <h1> Sign-Ups</h1>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdT8zRrkKkdEWZG6itjukJFplPk548az9RMjtkHERDC-XYiyA/viewform">Trunk-Or-Treat</a>
